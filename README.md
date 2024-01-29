@@ -9,7 +9,7 @@ Unsupervised learning is a type of machine learning where the model is trained u
 - Anomaly Detection: This involves identifying rare items, events or observations which raise suspicions by differing significantly from the majority of the data. This is commonly used in fraud detection, network security, and fault detection.
 
 - Neural Networks and Deep Learning: Techniques such as autoencoders, which are a type of artificial neural network used to learn efficient codings, fall under this category. They are used for tasks like feature extraction, image reconstruction, and generative models.
-bash```
+```
 https://github.com/AnalyticalHarry/DeepLearningForDigitClassification
 ```
 
