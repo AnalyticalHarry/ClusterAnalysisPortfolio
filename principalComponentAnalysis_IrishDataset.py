@@ -93,3 +93,12 @@ plt.legend()
 plt.tight_layout()
 plt.show()
 
+#plot cummulative variance
+cumulative_variance = np.cumsum(pca.get_explained_variance_ratio())
+plt.figure(figsize=(8, 4))
+plt.plot(cumulative_variance, marker='o')
+plt.title('Cumulative Explained Variance')
+plt.xlabel('Number of Principal Components')
+plt.ylabel('Cumulative Explained Variance Ratio')
+plt.grid(True, ls='--', alpha=0.5)
+plt.show()
