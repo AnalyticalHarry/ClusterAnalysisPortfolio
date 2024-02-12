@@ -1,6 +1,5 @@
 ##### Building K-means from Scratch ##### 
 
-
 #Importing libaries 
 import numpy as np
 import matplotlib.pyplot as plt
