@@ -16,3 +16,8 @@ https://github.com/AnalyticalHarry/DeepLearningForDigitClassification
 - Self-Organizing Maps (SOMs): SOMs are a type of artificial neural network used for feature mapping and dimensionality reduction, often visualized in two dimensions.
 
 - t-Distributed Stochastic Neighbor Embedding (t-SNE): t-SNE is a non-linear dimensionality reduction technique particularly well suited for embedding high-dimensional data for visualization in a low-dimensional space of two or three dimensions.
+
+##### Author: Hemant Thapa
+##### Programming Language: R Programming
+##### Email: hemantthapa1998@gmail.com
+
